@@ -1,0 +1,3 @@
+flake8 -- it helps to check your python files if they follow pep8 guideline
+black -- fix places in your python code that doesnt conform to pep8 standard
+pre-commit -- checks thru all the files in your current commit instance
